@@ -1568,7 +1568,7 @@
 { "type": "Feature", "properties": { "Kategori": "Okullar", "Ad": "Mustafa Kemal Lisesi", "name": "Manavkuyu Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 27.194687814036318, 38.461143154074946 ] } },
 { "type": "Feature", "properties": { "Kategori": "Okullar", "Ad": "Attaroğlu İlköğretim Okulu", "name": "Manavkuyu Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 27.18451095, 38.45760195 ] } },
 { "type": "Feature", "properties": { "Kategori": "Parklar", "Ad": "Park", "name": "Manavkuyu Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 27.194378713789657, 38.466267598305159 ] } },
-{ "type": "Feature", "properties": { "Kategori": "Parklar", "Ad": "İsimsiz", "name": "Manavkuyu Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 27.19559683404194, 38.465913414546705 ] } },
+{ "type": "Feature", "properties": { "Kategori": "Parklar", "Ad": "Kedi Park", "name": "Manavkuyu Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 27.19559683404194, 38.465913414546705 ] } },
 { "type": "Feature", "properties": { "Kategori": "Parklar", "Ad": "Bornova Çayı Parkı", "name": "Manavkuyu Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 27.196875106568907, 38.466638640224481 ] } },
 { "type": "Feature", "properties": { "Kategori": "Parklar", "Ad": "İsimsiz", "name": "Manavkuyu Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 27.194045115512679, 38.464834698024305 ] } },
 { "type": "Feature", "properties": { "Kategori": "Parklar", "Ad": "İsimsiz", "name": "Manavkuyu Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 27.192579205504874, 38.464146062764264 ] } },
