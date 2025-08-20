@@ -3,6 +3,7 @@
 "name": "donatılar_mah",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+{ "type": "Feature", "properties": { "Kategori": "Sağlık Kurumları", "Ad": "Ökmen Tesisleri", "name": "" }, "geometry": { "type": "Point", "coordinates": [ 27.1763543, 38.4646371 ] } },
 { "type": "Feature", "properties": { "Kategori": "Sağlık Kurumları", "Ad": "Pifizz Fizyoterapi & Rehabilitasyon", "name": "Pifizz Fizyoterapi & Rehabilitasyon" }, "geometry": { "type": "Point", "coordinates": [ 27.117870, 38.457680 ] } },
 { "type": "Feature", "properties": { "Kategori": "Sağlık Kurumları", "Ad": "SElife Physiothterapy", "name": "Elife Physiothterapy" }, "geometry": { "type": "Point", "coordinates": [ 27.097240, 38.458084 ] } },
 { "type": "Feature", "properties": { "Kategori": "Sağlık Kurumları", "Ad": "Özel Efes Özel Eğitim ve Rehabilitasyon Merkezi", "name": "Özel Efes Özel Eğitim ve Rehabilitasyon Merkezi" }, "geometry": { "type": "Point", "coordinates": [ 27.112341, 38.458583 ] } },
@@ -2308,7 +2309,7 @@
 { "type": "Feature", "properties": { "Kategori": "Okullar", "Ad": "Ertuğrul Gazi İmam Hatip Ortaokulu", "name": "Osmangazi Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 27.183930929303532, 38.467608756063285 ] } },
 { "type": "Feature", "properties": { "Kategori": "Okullar", "Ad": "Şehit Eren Bülbül Anadolu İmam Hatip Lisesi", "name": "Osmangazi Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 27.185227691789429, 38.478086295417462 ] } },
 { "type": "Feature", "properties": { "Kategori": "Parklar", "Ad": "Dinlenme ve Çocuk Parkı", "name": "Osmangazi Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 27.193450047159494, 38.467190820777319 ] } },
-{ "type": "Feature", "properties": { "Kategori": "Parklar", "Ad": "İsimsiz", "name": "Osmangazi Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 27.195964525037919, 38.469020034907082 ] } },
+{ "type": "Feature", "properties": { "Kategori": "Parklar", "Ad": "Eceler Parkı", "name": "Osmangazi Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 27.195964525037919, 38.469020034907082 ] } },
 { "type": "Feature", "properties": { "Kategori": "Parklar", "Ad": "İsimsiz", "name": "Osmangazi Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 27.189024262801041, 38.468399856034331 ] } },
 { "type": "Feature", "properties": { "Kategori": "Parklar", "Ad": "İsimsiz", "name": "Osmangazi Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 27.197821469522424, 38.467721420705068 ] } },
 { "type": "Feature", "properties": { "Kategori": "Parklar", "Ad": "İsimsiz", "name": "Osmangazi Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 27.18632685076534, 38.467290715595517 ] } },
