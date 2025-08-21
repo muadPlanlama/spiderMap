@@ -2311,7 +2311,7 @@
 { "type": "Feature", "properties": { "Kategori": "Parklar", "Ad": "Dinlenme ve Çocuk Parkı", "name": "Osmangazi Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 27.193450047159494, 38.467190820777319 ] } },
 { "type": "Feature", "properties": { "Kategori": "Parklar", "Ad": "Eceler Parkı", "name": "Osmangazi Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 27.195964525037919, 38.469020034907082 ] } },
 { "type": "Feature", "properties": { "Kategori": "Parklar", "Ad": "İsimsiz", "name": "Osmangazi Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 27.189024262801041, 38.468399856034331 ] } },
-{ "type": "Feature", "properties": { "Kategori": "Parklar", "Ad": "İsimsiz", "name": "Osmangazi Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 27.197821469522424, 38.467721420705068 ] } },
+{ "type": "Feature", "properties": { "Kategori": "Parklar", "Ad": "Pasif Yeşil", "name": "Osmangazi Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 27.197821469522424, 38.467721420705068 ] } },
 { "type": "Feature", "properties": { "Kategori": "Parklar", "Ad": "İsimsiz", "name": "Osmangazi Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 27.18632685076534, 38.467290715595517 ] } },
 { "type": "Feature", "properties": { "Kategori": "Parklar", "Ad": "Ahmet Taner Kışlalı Parkı", "name": "Osmangazi Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 27.186025524383602, 38.468543073200451 ] } },
 { "type": "Feature", "properties": { "Kategori": "Parklar", "Ad": "İsimsiz", "name": "Osmangazi Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 27.185408973379779, 38.467039867582528 ] } },
