@@ -2051,7 +2051,7 @@
 { "type": "Feature", "properties": { "Kategori": "Parklar", "Ad": "İsimsiz", "name": "Bahçelievler Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 27.115962074066662, 38.466807897343109 ] } },
 { "type": "Feature", "properties": { "Kategori": "Parklar", "Ad": "Gül Parkı", "name": "Bahçelievler Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 27.114071708572514, 38.467778115500067 ] } },
 { "type": "Feature", "properties": { "Kategori": "Parklar", "Ad": "80. Yıl Cumhuriyet Parkı", "name": "Bahçelievler Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 27.110951883531129, 38.468080583872812 ] } },
-{ "type": "Feature", "properties": { "Kategori": "Avni Anıl Parkı", "Ad": "İsimsiz", "name": "Bahçelievler Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 27.110836677336049, 38.465268516557572 ] } },
+{ "type": "Feature", "properties": { "Kategori": "Parklar", "Ad": "Avni Anıl Parkı", "name": "Bahçelievler Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 27.110836677336049, 38.465268516557572 ] } },
 { "type": "Feature", "properties": { "Kategori": "Raylı Sistem Durakları", "Ad": "İsimsiz", "name": "Bahçelievler Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 27.1287574, 38.464795 ] } },
 { "type": "Feature", "properties": { "Kategori": "Sağlık Kurumları", "Ad": "Sağlık Ocağı", "name": "Bahçelievler Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 27.120384570106054, 38.46402196772555 ] } },
 { "type": "Feature", "properties": { "Kategori": "Sağlık Kurumları", "Ad": "Karşıyaka 21 No'lu Evin Leblebicioğlu Aile Sağlığı Merkezi", "name": "Bahçelievler Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 27.118898775225382, 38.466952123756862 ] } },
