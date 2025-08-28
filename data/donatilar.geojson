@@ -3,8 +3,8 @@
 "name": "donatılar_mah",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "Kategori": "Sağlık Kurumları", "Ad": "Airai (Erai) Antik Kenti", "name": "Demircili Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 26.6901543, 38.2134491 ] } },
-{ "type": "Feature", "properties": { "Kategori": "Sağlık Kurumları", "Ad": "38.4208460 , 27.1447078", "name": "Faik Paşa Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 27.1447078, 38.4208460 ] } },
+{ "type": "Feature", "properties": { "Kategori": "Kültürel Miras (Köşk, Çeşme vb.)", "Ad": "Airai (Erai) Antik Kenti", "name": "Demircili Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 26.6901543, 38.2134491 ] } },
+{ "type": "Feature", "properties": { "Kategori": "Kültürel Miras (Köşk, Çeşme vb.)", "Ad": "38.4208460 , 27.1447078", "name": "Faik Paşa Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 27.1447078, 38.4208460 ] } },
 { "type": "Feature", "properties": { "Kategori": "Sağlık Kurumları", "Ad": "Bornova 25 Nolu Mevlana Aile Sağlığı Merkezi", "name": "" }, "geometry": { "type": "Point", "coordinates": [ 27.229775351976667, 38.44834609455377 ] } },
 { "type": "Feature", "properties": { "Kategori": "Sağlık Kurumları", "Ad": "Bornova Altındağ 17 Nolu Aile Sağlığı Merkezi", "name": "" }, "geometry": { "type": "Point", "coordinates": [ 27.19656261844657, 38.42370861902981 ] } },
 { "type": "Feature", "properties": { "Kategori": "Sağlık Kurumları", "Ad": "Pifizz Fizyoterapi & Rehabilitasyon", "name": "Pifizz Fizyoterapi & Rehabilitasyon" }, "geometry": { "type": "Point", "coordinates": [ 27.117870, 38.457680 ] } },
