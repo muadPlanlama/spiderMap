@@ -585,7 +585,6 @@
 { "type": "Feature", "properties": { "Kategori": "Okullar", "Ad": "English Time", "name": "Tuna Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 27.1165049, 38.4573833 ] } },
 { "type": "Feature", "properties": { "Kategori": "Parklar", "Ad": "Alaybey Bahçe", "name": "Tuna Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 27.124970193450157, 38.456387739278057 ] } },
 { "type": "Feature", "properties": { "Kategori": "Sağlık Kurumları", "Ad": "Özel Novar Polikliniği", "name": "Tuna Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 27.116403, 38.457454 ] } },
-{ "type": "Feature", "properties": { "Kategori": "İbadet Alanları", "Ad": "Ahavat Şalom Sinagogu", "name": "Tuna Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 27.12348975, 38.4574755 ] } },
 { "type": "Feature", "properties": { "Kategori": "Okullar", "Ad": "Şehit Fethi Bey Ortaokulu", "name": "Faik Paşa Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 27.144455517884527, 38.420199166603389 ] } },
 { "type": "Feature", "properties": { "Kategori": "İbadet Alanları", "Ad": "Abdullah Efendi Camii", "name": "Faik Paşa Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 27.145497885680847, 38.420950432196641 ] } },
 { "type": "Feature", "properties": { "Kategori": "Su Kaynakları", "Ad": "İsimsiz", "name": "Telekler Mahallesi" }, "geometry": { "type": "Point", "coordinates": [ 27.221406491689983, 38.665789310682776 ] } },
